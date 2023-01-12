@@ -9,7 +9,7 @@ A website that offers fitness training services.
 *CSS
 
 ## Website
-https://lernatino.github.io/run-buddy/
+https://TylerSnow-M.github.io/run-buddy/
 
 ## Contribution
 Made with <3 by Tyler
